@@ -1,0 +1,14 @@
+export { Button, type ButtonProps } from './Button';
+export { Tag, type TagProps } from './Tag';
+export { Navbar, type NavbarProps } from './Navbar';
+export { HeroSection, type HeroSectionProps } from './HeroSection';
+export { DemoSection, type DemoSectionProps } from './DemoSection';
+export { HowItWorks, type HowItWorksProps } from './HowItWorks';
+export { Benefits, type BenefitsProps } from './Benefits';
+export { Recipes, type RecipesProps } from './Recipes';
+export { Testimonials, type TestimonialsProps } from './Testimonials';
+export { Pricing, type PricingProps } from './Pricing';
+export { Blog, type BlogProps } from './Blog';
+export { FAQ, type FAQProps } from './FAQ';
+export { Assistance, type AssistanceProps } from './Assistance';
+export { Footer, type FooterProps } from './Footer'; 
