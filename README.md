@@ -8,6 +8,7 @@ AIChefMate is a modern, AI-powered meal planning platform that revolutionizes ho
 ![AIChefMate Hero](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript)
+![AIChef Demo](src/assets/ai-demo.gif)
 
 ## ✨ Features
 
